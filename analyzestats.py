@@ -1,0 +1,7 @@
+gsw_overall_df =  pd.read_csv('gsw_overall_stats.csv')
+gsw_5ft_df = pd.read_csv('gsw_5ft_stats.csv')
+gsw_8ft_df = pd.read_csv('gsw_8ft_stats.csv')
+gsw_shot_area_df = pd.read_csv('gsw_shot_area_stats.csv')
+gsw_assisted_shot_df = pd.read_csv('gsw_assisted_shot_stats.csv')
+gsw_shot_type_df = pd.read_csv('gsw_shot_type_stats.csv')
+gsw_assisted_by_df = pd.read_csv('gsw_assisted_by_stats.csv')
